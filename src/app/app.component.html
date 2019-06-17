@@ -1,0 +1,49 @@
+<nav class="navbar">
+    <ul class="nav">
+      <button type="button" class="menuboton" style="border-top-left-radius: 6px;" [routerLink]="['']">
+          <fa-icon [icon]="['fas','home']" size="2x"></fa-icon>
+      </button>
+      <button type="button" class="menuboton" data-toggle="modal" data-target="#exampleModal"
+      (click)="onClickMe()">
+        Nosotros 
+        <fa-icon [icon]="['fas','address-card']" size="2x"></fa-icon>
+      </button>
+      <button type="button" class="menuboton" [routerLink]="['/calendario']">Reserva de Hora
+          <fa-icon [icon]="['fas','calendar-alt']" size="2x">
+          </fa-icon>
+      </button>
+      <li>
+        Galeria
+        <fa-icon [icon]="['far','images']" size="2x"></fa-icon>
+        <ul class="dropdown">
+          <li>Menu 1</li>
+          <li>Menu 2</li>
+        </ul>			
+      </li>
+      <button type="button" class="menuboton" style="border-top-right-radius: 6px;">Contacto
+          <fa-icon [icon]="['fas','address-book']" size="2x"></fa-icon>
+      </button>
+    </ul>
+</nav>	
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalCenterTitle">Nosotros</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()">
+            <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>  
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>
+            El tipo más común de informe del auditor es el informe estándar, conocido también como opinión sin salvedad u opinión limpia. Esta opinión se utiliza cuanto no existen limitaciones significativas que afecten la realización de la auditoría, y cuando la evidencia obtenida en la auditoría no revela deficiencias significativas en los estados financieros o circunstancias poco usuales que afecten el informe del auditor independiente.
+            Este informe es considerado un informe estándar porque consiste de tres párrafos que contienen frases y terminologías estándar con un significado específico. El primer párrafo identifica los estados financieros que fueron auditados y describe la responsabilidad de la gerencia por los estados financieros y la responsabilidad del auditor por expresar una opinión sobre esos estados financieros. El segundo párrafo describe los elementos clave de una auditoría que proporcionan la base para sustentar la opinión sobre los estados financieros.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="onClickCerrar()">Close</button>
+        </div>
+      </div>
+    </div>
+</div>
+<router-outlet></router-outlet>
