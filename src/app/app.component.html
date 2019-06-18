@@ -1,4 +1,4 @@
-<nav class="navbar">
+<nav class="navbar" style="border-radius: 4px;width: 99%;padding-left: 10px;padding-top: 8px;">
     <ul class="nav">
       <button type="button" class="menuboton" style="border-top-left-radius: 6px;" [routerLink]="['']">
           <fa-icon [icon]="['fas','home']" size="2x"></fa-icon>
@@ -26,11 +26,11 @@
     </ul>
 </nav>	
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" role="document" style="margin: 160px auto;">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalCenterTitle">Nosotros</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()"  style="margin-top: -20px;">
             <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>  
           </button>
         </div>
