@@ -29,7 +29,7 @@ export class AppComponent {
     content.style.display = "none";
     content.style.opacity = 0;
   }
-  onClickHome(){location.href = "http://localhost:4200/";}
+  onClickcalendario(){location.href = "http://localhost:4200/calendario";}
 
 }
 
