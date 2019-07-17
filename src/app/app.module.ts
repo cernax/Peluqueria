@@ -9,6 +9,7 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 import {MatRadioModule} from '@angular/material/radio';
 import { CalendarioComponent } from './calendario/calendario.component';
 import { HomeComponent } from './home/home.component';
+import { FullCalendarModule } from '@fullcalendar/angular'; // for FullCalendar!
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HomeComponent } from './home/home.component';
     BrowserModule,
     AppRoutingModule,
     FontAwesomeModule,
-    MatRadioModule
+    MatRadioModule,
+    FullCalendarModule // for FullCalendar!
   ],
   providers: [],
   bootstrap: [AppComponent]

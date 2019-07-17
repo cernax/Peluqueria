@@ -1,10 +1,21 @@
 
 <body>
     <div style="margin-left: 15px; margin-right: 20px;">
-        <button type="button" class="btn btn-primary" style="position: absolute;margin-left: 610px;" (click)="onClickEvento()">
-            <fa-icon [icon]="['far','calendar-plus']" size="2x"></fa-icon>
-            </button>
-        <div id='calendar'></div>
+        <full-calendar
+                id="calendar"
+            defaultView="dayGridMonth"
+            [plugins]="calendarPlugins"
+            [weekends]="false"
+            [events]="[
+                { title: 'event 1', date: '2019-07-01' },
+                { title: 'event 2', date: '2019-07-02' }]"
+            [droppable]="true"
+            [editable]="true"
+            [selectable]="true"
+            (dateClick)="handleDateClick($event)"
+            [locale]="esLocale"
+            [height]="700"
+        ></full-calendar>
     </div>
 </body>
 

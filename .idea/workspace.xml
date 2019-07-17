@@ -2,13 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="622ec71d-5918-4e43-a906-6a7ead55921c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/andres.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales-all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales-all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-dz.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-dz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-kw.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-kw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-ly.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-ly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-ma.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-ma.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-sa.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-sa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-tn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar-tn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-nz.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/en-nz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/es-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/es-us.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/kk.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/kk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/nn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sr-cyrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sr-cyrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/zh-tw.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/locales/zh-tw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@fullcalendar/daygrid/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/calendario/calendario.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/calendario/calendario.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -25,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="432">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -37,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+            <state relative-caret-position="325">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -47,52 +130,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/@angular/core/core.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="4728" column="4" selection-start-line="4728" selection-start-column="4" selection-end-line="4728" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="187">
+              <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@angular/core/core.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="814" column="4" selection-start-line="814" selection-start-column="4" selection-end-line="814" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -107,16 +169,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/styles.css" />
         <option value="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" />
         <option value="$PROJECT_DIR$/src/app/calendario/calendario.component.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="-30" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="295" />
+    <option name="y" value="-14" />
+    <option name="width" value="1280" />
+    <option name="height" value="520" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,6 +231,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="ts.external.directory.path" value="C:\Users\andres\Desktop\Proyectos\peluqueria\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
@@ -222,11 +287,14 @@
       <updated>1561157673043</updated>
       <workItem from="1561157676763" duration="2963000" />
       <workItem from="1561310772225" duration="9681000" />
+      <workItem from="1563299973206" duration="4902000" />
+      <workItem from="1563324632137" duration="1901000" />
+      <workItem from="1563331691030" duration="4430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12644000" />
+    <option name="totallyTimeSpent" value="23877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -238,15 +306,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17597471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34448162" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -255,7 +323,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32820514" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32820514" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32820514" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.13333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -279,30 +347,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@angular/core/core.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="814" column="4" selection-start-line="814" selection-start-column="4" selection-end-line="814" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="493">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
@@ -312,7 +359,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="170">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
@@ -320,10 +367,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@angular/core/core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="4728" column="4" selection-start-line="4728" selection-start-column="4" selection-end-line="4728" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        <state relative-caret-position="325">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -332,13 +418,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="432">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
