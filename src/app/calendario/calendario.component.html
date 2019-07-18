@@ -17,5 +17,23 @@
             [height]="700"
         ></full-calendar>
     </div>
+    <div class="modal fade" id="popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document" style="margin: 160px auto;">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalCenterTitle">Nosotros</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()"  style="margin-top: -20px;">
+                <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>  
+              </button>
+            </div>
+            <div class="modal-body">
+                <label id="fecha"></label>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="onClickCerrar()">Close</button>
+            </div>
+          </div>
+        </div>
+    </div>
 </body>
 

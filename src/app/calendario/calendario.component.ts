@@ -20,8 +20,23 @@ export class CalendarioComponent implements OnInit {
     esLocale = ['es'];
 
     handleDateClick(arg) { // handler method
-        alert(arg.dateStr);
+        //alert(arg.dateStr);
+        
+        let pop;
+        let fecha;
+        pop = document.getElementById("popup");
+        pop.style.display = "flex";
+        pop.style.opacity = 1;        
+        fecha = document.getElementById("fecha");
+        fecha.innerHTML = arg.dateStr;
     }
+    
+  onClickCerrar(){
+    var content;
+    content = document.getElementById("popup");
+    content.style.display = "none";
+    content.style.opacity = 0;
+  }
     constructor() {}
 
     ngOnInit() {
