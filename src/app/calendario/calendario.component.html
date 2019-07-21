@@ -33,15 +33,20 @@
                         <td>
                             <span>Titulo: </span>
                         </td>
-                        <td>
-                            <input type="text" class="form-control" id="tituloCalendario" placeholder="Titulo" style="width: 97%">
+                        <td style="width: 100%">
+                            <input type="text" class="form-control" id="tituloCalendario" placeholder="Titulo" style="width: 100%">
                         </td>
+                    </tr>
+                </table>
+                <br>
+                <table>
+                    <tr>
                         <td style="width: 5px;"></td>
                         <td>
                             <span>Peluquero: </span>
                         </td>
-                        <td>
-                            <select class="form-control" id="Peluquero">
+                        <td style="width: 68%">
+                            <select class="form-control" id="Peluquero" style="width: 80%">
                                 <option>Peluquero 1</option>
                                 <option>Peluquero 2</option>
                                 <option>Peluquero 3</option>
@@ -51,15 +56,11 @@
                         </td>
                         <td style="width: 5px;"></td>
                         <td>
-                            <input type="text" id="timeEvento" data-format="MM/dd/yyyy HH:mm:ss PP">
-                            <script type="text/javascript">
-                                $(function() {
-                                    $('#timeEvento').datetimepicker({
-                                        language: 'en',
-                                        pick12HourFormat: true
-                                    });
-                                });
-                            </script>
+                            <span>Hora: </span>
+                        </td>
+                        <td>
+                            <input [owlDateTimeTrigger]="dt4" [owlDateTime]="dt4" style="width: 85px;" class="form-control">
+                            <owl-date-time [pickerType]="'timer'" #dt4></owl-date-time>
                         </td>
                     </tr>
                 </table>

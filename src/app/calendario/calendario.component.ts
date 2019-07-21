@@ -3,6 +3,7 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
+import * as $ from 'jquery';
 
 import allLocales from '@fullcalendar/core/locales-all';
 import esLocale from '@fullcalendar/core/locales/es';
@@ -13,6 +14,7 @@ import {EMPTY} from 'rxjs';
 function formato(fecha: string) {
     return fecha.replace(/^(\d{4})-(\d{2})-(\d{2})$/g,'$3/$2/$1');
 }
+
 @Component({
   selector: 'app-calendario',
   templateUrl: './calendario.component.html',
@@ -23,7 +25,7 @@ export class CalendarioComponent implements OnInit {
     calendarPlugins = [dayGridPlugin, timeGridPlugin, listPlugin, interactionPlugin]; // important
     esLocale = ['es'];
     calendarEvents = [
-        { id:'', title: '', start: '', end: '', backgroundColor: '' }
+        { id:'', title: '', start: '', end: '', backgroundColor: '', endTime:'' }
     ];
 
     handleDateClick(arg) { // handler method
@@ -33,7 +35,8 @@ export class CalendarioComponent implements OnInit {
         let titulo;
         pop = document.getElementById("popup");
         pop.style.display = "flex";
-        pop.style.opacity = 1;        
+        pop.style.opacity = 1;
+        pop.style.zIndex = 1;
         fecha = document.getElementById("fecha");
         fecha.innerText  = formato(arg.dateStr);
         titulo = document.getElementById("tituloCalendario");
@@ -63,7 +66,7 @@ export class CalendarioComponent implements OnInit {
         }
         titleEvento.innerHTML = dd + '/' + mm + '/' + yyyy;
         body = document.getElementById("txtBody");
-        body.innerHTML = info.event.title;
+        body.innerHTML = info.event.title + " " + info.event.endTime;
 
         info.el.style.borderColor = 'red';
     }
@@ -94,7 +97,7 @@ export class CalendarioComponent implements OnInit {
         fechamodificada = fecha.replace("-","");
         fechamodificada = fechamodificada.replace("-","");
 
-        this.calendarEvents = this.calendarEvents.concat({id:fechamodificada , title:titulo, start:fecha, end:fecha, backgroundColor:"red" })
+        this.calendarEvents = this.calendarEvents.concat({id:fechamodificada , title:titulo, start:fecha, end:fecha, backgroundColor:"red", endTime:"12:00" })
         //tituloCalendario, Peluquero
         let content;
         content = document.getElementById("popup");

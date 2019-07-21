@@ -10,7 +10,8 @@ import {MatRadioModule} from '@angular/material/radio';
 import { CalendarioComponent } from './calendario/calendario.component';
 import { HomeComponent } from './home/home.component';
 import { FullCalendarModule } from '@fullcalendar/angular'; // for FullCalendar!
-
+import { OwlDateTimeModule, OwlNativeDateTimeModule } from 'ng-pick-datetime';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -20,10 +21,13 @@ import { FullCalendarModule } from '@fullcalendar/angular'; // for FullCalendar!
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     FontAwesomeModule,
     MatRadioModule,
-    FullCalendarModule // for FullCalendar!
+    FullCalendarModule, // for FullCalendar!
+    OwlDateTimeModule,
+    OwlNativeDateTimeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
