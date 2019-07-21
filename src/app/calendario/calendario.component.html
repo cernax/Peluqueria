@@ -1,38 +1,100 @@
-
 <body>
     <div style="margin-left: 15px; margin-right: 20px;">
         <full-calendar
-                id="calendar"
+            id="calendar"
             defaultView="dayGridMonth"
             [plugins]="calendarPlugins"
             [weekends]="false"
-            [events]="[
-                { title: 'event 1', date: '2019-07-01' },
-                { title: 'event 2', date: '2019-07-02' }]"
+            [events]="calendarEvents"
             [droppable]="true"
             [editable]="true"
             [selectable]="true"
             (dateClick)="handleDateClick($event)"
             [locale]="esLocale"
             [height]="700"
+            [eventLimit]="true"
+            (eventClick)="handleEventClick($event)"
         ></full-calendar>
     </div>
     <div class="modal fade" id="popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document" style="margin: 160px auto;">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalCenterTitle">Nosotros</h5>
+              <h5 class="modal-title" id="exampleModalCenterTitle">
+                  <label id="fecha"></label></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()"  style="margin-top: -20px;">
                 <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>  
               </button>
             </div>
             <div class="modal-body">
-                <label id="fecha"></label>
+                <table>
+                    <tr>
+                        <td style="width: 5px;"></td>
+                        <td>
+                            <span>Titulo: </span>
+                        </td>
+                        <td>
+                            <input type="text" class="form-control" id="tituloCalendario" placeholder="Titulo" style="width: 97%">
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td>
+                            <span>Peluquero: </span>
+                        </td>
+                        <td>
+                            <select class="form-control" id="Peluquero">
+                                <option>Peluquero 1</option>
+                                <option>Peluquero 2</option>
+                                <option>Peluquero 3</option>
+                                <option>Peluquero 4</option>
+                                <option>Peluquero 5</option>
+                            </select>
+                        </td>
+                        <td style="width: 5px;"></td>
+                        <td>
+                            <input type="text" id="timeEvento" data-format="MM/dd/yyyy HH:mm:ss PP">
+                            <script type="text/javascript">
+                                $(function() {
+                                    $('#timeEvento').datetimepicker({
+                                        language: 'en',
+                                        pick12HourFormat: true
+                                    });
+                                });
+                            </script>
+                        </td>
+                    </tr>
+                </table>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="onClickCerrar()">Close</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" (click)="onGuardarEvento()" >Guardar</button>
+              <button type="button" class="btn btn-danger" data-dismiss="modal" (click)="onClickCerrar()">Close</button>
             </div>
           </div>
+        </div>
+    </div>
+    <div class="modal fade" id="popupEvento" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document" style="margin: 160px auto;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="popEvento">
+                        <label id="TituloEvento"></label></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrarEvento()"  style="margin-top: -20px;">
+                        <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>
+                    </button>
+                </div>
+                <div>
+                    <table>
+                        <tr>
+                            <td style="width: 15px"></td>
+                            <td>
+                                <label id="txtBody"></label>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal" (click)="onClickCerrarEvento()">Close</button>
+                </div>
+            </div>
         </div>
     </div>
 </body>
