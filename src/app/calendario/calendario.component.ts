@@ -25,7 +25,7 @@ export class CalendarioComponent implements OnInit {
     calendarPlugins = [dayGridPlugin, timeGridPlugin, listPlugin, interactionPlugin]; // important
     esLocale = ['es'];
     calendarEvents = [
-        { id:'', title: '', start: '', end: '', backgroundColor: '', endTime:'' }
+        { id:'', title: '', start: '', end: '', backgroundColor: '', }
     ];
 
     handleDateClick(arg) { // handler method
@@ -66,7 +66,7 @@ export class CalendarioComponent implements OnInit {
         }
         titleEvento.innerHTML = dd + '/' + mm + '/' + yyyy;
         body = document.getElementById("txtBody");
-        body.innerHTML = info.event.title + " " + info.event.endTime;
+        body.innerHTML = info.event.title;
 
         info.el.style.borderColor = 'red';
     }
@@ -97,7 +97,7 @@ export class CalendarioComponent implements OnInit {
         fechamodificada = fecha.replace("-","");
         fechamodificada = fechamodificada.replace("-","");
 
-        this.calendarEvents = this.calendarEvents.concat({id:fechamodificada , title:titulo, start:fecha, end:fecha, backgroundColor:"red", endTime:"12:00" })
+        this.calendarEvents = this.calendarEvents.concat({id:fechamodificada , title:titulo, start:fecha, end:fecha, backgroundColor:"red"})
         //tituloCalendario, Peluquero
         let content;
         content = document.getElementById("popup");
@@ -105,6 +105,8 @@ export class CalendarioComponent implements OnInit {
         content.style.opacity = 0;
     }
 
+    onEliminar(info){
+    }
 
     constructor() {
     }

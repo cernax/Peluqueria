@@ -83,11 +83,16 @@
                     </button>
                 </div>
                 <div>
-                    <table>
+                    <table style="margin-top: 2%;margin-bottom: 2%;margin-left: 2%;">
                         <tr>
                             <td style="width: 15px"></td>
-                            <td>
-                                <label id="txtBody"></label>
+                            <td style="width: 80%">
+                                <label id="txtBody" style="width: 80%"></label>
+                            </td>
+                            <td style="width: 20%">
+                                <button style="background-color: transparent;border: none;" (click)="onEliminar($event)">
+                                    <fa-icon [icon]="['fas','trash-alt']" size="2x" ></fa-icon>
+                                </button>
                             </td>
                         </tr>
                     </table>

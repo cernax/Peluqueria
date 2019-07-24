@@ -3,158 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="622ec71d-5918-4e43-a906-6a7ead55921c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/BUILD_INFO" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/BUILD_INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/animations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/animations.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/browser/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/browser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/testing.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/testing.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/esm2015/src/version.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/esm2015/src/version.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/esm5/src/version.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/esm5/src/version.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/browser/testing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm2015/browser/testing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/browser/testing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/fesm5/browser/testing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@angular/animations/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/animations/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/isAttached.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/isAttached.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/finalPropName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/finalPropName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcheckableType.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcheckableType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/calendario/calendario.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/calendario/calendario.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -168,35 +18,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="58" column="47" lean-forward="true" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+            <state relative-caret-position="255">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" />
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#0;n#table#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#td#2;n#tr#0;n#table#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#6;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#7;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#body#0;n#!!top" />
+                <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+            <state relative-caret-position="253">
+              <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
+                <element signature="n#!!block;n#handleDateClick#0;n#CalendarioComponent#0" />
+                <element signature="e#1022#1039#0" />
+                <element signature="n#!!block;n#handleEventClick#0;n#CalendarioComponent#0" />
                 <element signature="n#!!block;n#onClickCerrar#0;n#CalendarioComponent#0" />
+                <element signature="n#!!block;n#onClickCerrarEvento#0;n#CalendarioComponent#0" />
               </folding>
             </state>
           </provider>
@@ -205,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="493">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
@@ -243,6 +100,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>menuboton</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -253,8 +115,8 @@
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/src/styles.css" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/calendario/calendario.component.html" />
         <option value="$PROJECT_DIR$/src/app/calendario/calendario.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/calendario/calendario.component.html" />
       </list>
     </option>
   </component>
@@ -270,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,6 +161,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,12 +238,14 @@
       <workItem from="1563659898195" duration="341000" />
       <workItem from="1563660265087" duration="53000" />
       <workItem from="1563661776760" duration="25957000" />
-      <workItem from="1563734419738" duration="5950000" />
+      <workItem from="1563734419738" duration="6645000" />
+      <workItem from="1563764199427" duration="1505000" />
+      <workItem from="1563934782030" duration="3671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56178000" />
+    <option name="totallyTimeSpent" value="62049000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,16 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -471,16 +325,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles.css">
+    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -495,49 +353,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="51">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="44" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.css">
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="5">
+          <caret line="338" column="20" lean-forward="true" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="n#!!block;n#handleDateClick#0;n#CalendarioComponent#0" />
+            <element signature="e#1022#1039#0" />
+            <element signature="n#!!block;n#handleEventClick#0;n#CalendarioComponent#0" />
+            <element signature="n#!!block;n#onClickCerrar#0;n#CalendarioComponent#0" />
+            <element signature="n#!!block;n#onClickCerrarEvento#0;n#CalendarioComponent#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="58" column="47" lean-forward="true" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" />
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#0;n#table#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#select#0;n#td#2;n#tr#0;n#table#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#6;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#7;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#!!top" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/calendario/calendario.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-            <element signature="n#!!block;n#onClickCerrar#0;n#CalendarioComponent#0" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
