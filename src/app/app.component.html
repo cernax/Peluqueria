@@ -3,8 +3,7 @@
       <button type="button" class="menuboton" style="border-top-left-radius: 6px;" [routerLink]="['']">
           <fa-icon [icon]="['fas','home']" size="2x"></fa-icon>
       </button>
-      <button type="button" class="menuboton" data-toggle="modal" data-target="#exampleModal"
-      (click)="onClickMe()">
+      <button type="button" class="menuboton" data-toggle="modal" data-target="#exampleModalCenter">
         Nosotros 
         <fa-icon [icon]="['fas','address-card']" size="2x"></fa-icon>
       </button>
@@ -12,25 +11,21 @@
           <fa-icon [icon]="['fas','calendar-alt']" size="2x">
           </fa-icon>
       </button>
-      <li>
-        Galeria
-        <fa-icon [icon]="['far','images']" size="2x"></fa-icon>
-        <ul class="dropdown">
-          <li>Menu 1</li>
-          <li>Menu 2</li>
-        </ul>			
-      </li>
-      <button type="button" class="menuboton" style="border-top-right-radius: 6px;">Contacto
-          <fa-icon [icon]="['fas','address-book']" size="2x"></fa-icon>
+      <button type="button" class="menuboton" [routerLink]="['/imagenes']">Galeria
+          <fa-icon [icon]="['far','images']" size="2x"></fa-icon>
+      </button>
+      <button type="button" class="menuboton" data-toggle="modal" style="border-top-right-radius: 6px;" data-target="#PopUpContactenos">
+        Contacto
+        <fa-icon [icon]="['fas','address-book']" size="2x"></fa-icon>
       </button>
     </ul>
 </nav>	
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document" style="margin: 160px auto;">
+    <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalCenterTitle">Nosotros</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="onClickCerrar()"  style="margin-top: -20px;">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin-top: -20px;">
             <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>  
           </button>
         </div>
@@ -41,9 +36,46 @@
           </p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="onClickCerrar()">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
+</div>
+<div class="modal fade" id="PopUpContactenos" tabindex="-1" role="dialog" aria-labelledby="mpeContacto" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="mpeContacto">Contactenos</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin-top: -20px;">
+          <fa-icon [icon]="['fas','times']" size="1x"></fa-icon>
+        </button>
+      </div>
+      <div class="modal-body" style="height: 115px;">
+        <table class="table" style="margin-left: 10px;width: 97%;">
+          <tbody>
+            <tr>
+              <td style="width: 5%">
+                <fa-icon [icon]="['fas','mobile-alt']" size="2x"></fa-icon>
+              </td>
+              <td style="padding-top: 13px;">
+                <span>+56979090727</span>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <fa-icon [icon]="['fas','envelope']" size="2x"></fa-icon>
+              </td>
+              <td style="padding-top: 13px;">
+                <span>test@gmail.com</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
 </div>
 <router-outlet></router-outlet>

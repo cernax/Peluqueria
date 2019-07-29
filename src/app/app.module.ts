@@ -12,12 +12,14 @@ import { HomeComponent } from './home/home.component';
 import { FullCalendarModule } from '@fullcalendar/angular'; // for FullCalendar!
 import { OwlDateTimeModule, OwlNativeDateTimeModule } from 'ng-pick-datetime';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { ImagenesComponent } from './imagenes/imagenes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CalendarioComponent,
-    HomeComponent
+    HomeComponent,
+    ImagenesComponent
   ],
   imports: [
     BrowserModule,
