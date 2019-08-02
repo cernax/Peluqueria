@@ -1,21 +1,19 @@
-<div class="pos-f-t">    
-  <div class="collapse" id="navbarToggleExternalContent">
-      <div class="bg-dark p-4">
-        <h5 class="text-white h4">Collapsed content</h5>
-        <span class="text-muted">Toggleable via the navbar brand.</span>
-      </div> 
-    </div>
-    <nav class="navbar" style="border-radius: 4px;width: 99%;padding-left: 10px;padding-top: 8px;">
-      
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+<div class="topnav" id="myTopnav">
+    <nav class="navbar" style="border-radius: 4px;width: 100%;padding-left: 10px;padding-top: 8px;">
       <ul class="nav">
+        <div class="dropdown">
+        <button class="dropbtn">Dropdown
+          <fa-icon [icon]="['fa','caret-down']" size="2x"></fa-icon>
+        </button>
+        </div>
+        <button href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <fa-icon [icon]="['fa','bars']" size="2x"></fa-icon>
+        </button>
         <button type="button" class="menuboton" style="border-top-left-radius: 6px;" [routerLink]="['']">
             <fa-icon [icon]="['fas','home']" size="2x"></fa-icon>
         </button>
         <button type="button" class="menuboton" data-toggle="modal" data-target="#exampleModalCenter">
-          Nosotros 
+          Nosotros
           <fa-icon [icon]="['fas','address-card']" size="2x"></fa-icon>
         </button>
         <button type="button" class="menuboton" [routerLink]="['/calendario']">Reserva de Hora
@@ -29,8 +27,10 @@
           Contacto
           <fa-icon [icon]="['fas','address-book']" size="2x"></fa-icon>
         </button>
+
+        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
       </ul>
-    </nav>	
+    </nav>
 </div>
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered" role="document">
@@ -91,5 +91,3 @@
     </div>
   </div>
   <router-outlet></router-outlet>
-  
-<router-outlet></router-outlet>
