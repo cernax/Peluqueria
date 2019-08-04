@@ -3,12 +3,6 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
-import * as $ from 'jquery';
-
-import allLocales from '@fullcalendar/core/locales-all';
-import esLocale from '@fullcalendar/core/locales/es';
-import { Calendar } from '@fullcalendar/core';
-import {EMPTY} from 'rxjs';
 
 
 function formato(fecha: string) {
@@ -111,5 +105,7 @@ export class CalendarioComponent implements OnInit {
     constructor() {
     }
 
-    ngOnInit() {}
+    ngOnInit() {
+
+    }
 }

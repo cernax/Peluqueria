@@ -13,33 +13,7 @@ library.add(fas, far);
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'peluqueria';  
-  faCoffee = faCoffee;
-  clickMessage = '';
-
-  onClickMe() {
-    var content;
-    content = document.getElementById("exampleModalCenter");
-    content.style.display = "flex";
-    content.style.opacity = 1;
-  }
-  onClickCerrar(){
-    var content;
-    content = document.getElementById("exampleModalCenter");
-    content.style.display = "none";
-    content.style.opacity = 0;
-  }
-  onClickcalendario(){location.href = "http://localhost:4200/calendario";}
-
-  myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-      x.className += " responsive";
-    } else {
-      x.className = "topnav";
-    }
-  }
-
+  title = 'peluqueria';
 }
 
 export class RadioOverviewExample {}
